@@ -1,5 +1,7 @@
 # Symmetric-encryption
 
+'cryptography' module must be installed
+
 1. Key generation
 
 To generate a key run keygen.py.
